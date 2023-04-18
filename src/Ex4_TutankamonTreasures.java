@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class Ex4_TutankamonTreasures {
+public class Ex4_TutankamonTreasures {
 }
